@@ -1,0 +1,6 @@
+{
+  "name": "agent-selin-app-de-recordatorios-de-medica-morncpi7",
+  "version": "1.0.0",
+  "description": "Proyecto de Selin [Gen11]: app de recordatorios de medicamentos con alertas",
+  "main": "index.js"
+}
